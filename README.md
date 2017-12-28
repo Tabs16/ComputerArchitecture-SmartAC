@@ -1,4 +1,4 @@
-# Computer Organisation and Architecture Term Project
+# Computer Organisation and Architecture Project
 Designed a Smart Air Conditioner which is a 16-bit machine.
 
 ## Assembler Design
